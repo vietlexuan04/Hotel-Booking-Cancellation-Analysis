@@ -145,5 +145,5 @@ hotel-booking-cancellation-analysis/
 
 ## Tác giả
 
-**Le Xuan Viet**
+**Lê Xuân Việt**
 Data Analytics | SQL | Power BI
