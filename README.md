@@ -157,4 +157,4 @@ Data Analytics | SQL | Power BI
 ![Customer segments](screenshots/customer_segments.png)
 
 ### Revenue & ADR
-![Customer segments](screenshots/revenue & adr.png)
+![Customer segments](screenshots/revenue_and_adr.png)
