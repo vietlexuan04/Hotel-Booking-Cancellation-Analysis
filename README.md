@@ -148,10 +148,13 @@ Data Analytics | SQL | Power BI
 ## Dashboard Screenshots
 
 ### Overview
-![Overview](assets/dashboard/overview.png)
+![Overview](screenshots/overview.png)
 
-### Cancellation Drivers
-![Cancellation drivers](assets/dashboard/cancellation_drivers.png)
+### Cancellation 
+![Cancellation drivers](screenshots/cancellation.png)
 
 ### Customer Segments
-![Customer segments](assets/dashboard/customer_segments.png)
+![Customer segments](screenshots/customer_segments.png)
+
+### Revenue & ADR
+![Customer segments](screenshots/revenue & adr.png)
