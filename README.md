@@ -101,24 +101,6 @@ The Power BI dashboard (`powerbi/hotel_booking_dashboard.pbix`) is the main inte
 
 See [Dashboard Screenshots](#dashboard-screenshots) below for a preview.
 
-## Repository Structure
-
-```text
-hotel-booking-cancellation-analysis/
-├── README.md
-├── data/
-│   └── hotel_bookings.csv
-├── sql/
-│   └── hotel_bookings_analysis.sql
-├── powerbi/
-│   └── hotel_booking_dashboard.pbix
-├── docs/
-│   ├── analysis_vi.md
-│   └── analysis_en.md
-└── assets/
-    └── dashboard/
-```
-
 ## How to Run
 
 1. Import `data/hotel_bookings.csv` into SQL Server as a table named `hotel_bookings`.
