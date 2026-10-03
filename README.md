@@ -154,7 +154,7 @@ Data Analytics | SQL | Power BI
 ![Cancellation drivers](screenshots/cancellation.png)
 
 ### Customer Segments
-![Customer segments](screenshots/customer_segments.png)
+![Customer segments](screenshots/customer_segment.png)
 
 ### Revenue & ADR
 ![Customer segments](screenshots/revenue_and_adr.png)
